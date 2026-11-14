@@ -14,6 +14,8 @@ GiftRadarTG is a powerful tool for discovering, analyzing, monitoring, and track
 ![Platform](https://img.shields.io/badge/PLATFORM-WINDOWS%2010%2F11-lightgrey?style=for-the-badge)
 
 ## ⚡ Why GiftRadarTG?
+<img width="1212" height="1298" alt="image" src="https://github.com/user-attachments/assets/0064b05b-be18-45a8-a48c-b9532b4b603a" />
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/c28997b7-3215-4dcf-be9b-6cf68b73820a" />
 
 - 🚀 **10 ms Parsing Speed** — lightning-fast data processing.
 - 🏆 **1,000+ Reviews** — trusted by the community.
